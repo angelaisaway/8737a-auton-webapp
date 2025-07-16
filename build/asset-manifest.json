@@ -1,16 +1,17 @@
 {
   "files": {
-    "main.css": "/vex-auton-tool/static/css/main.2d2b8c51.css",
-    "main.js": "/vex-auton-tool/static/js/main.df1b36f8.js",
-    "static/js/453.e20331ce.chunk.js": "/vex-auton-tool/static/js/453.e20331ce.chunk.js",
-    "static/media/jerryfield.png": "/vex-auton-tool/static/media/jerryfield.f8385c129d2657186f81.png",
-    "index.html": "/vex-auton-tool/index.html",
-    "main.2d2b8c51.css.map": "/vex-auton-tool/static/css/main.2d2b8c51.css.map",
-    "main.df1b36f8.js.map": "/vex-auton-tool/static/js/main.df1b36f8.js.map",
-    "453.e20331ce.chunk.js.map": "/vex-auton-tool/static/js/453.e20331ce.chunk.js.map"
+    "main.css": "/8737a-auton-webapp/static/css/main.ebacb072.css",
+    "main.js": "/8737a-auton-webapp/static/js/main.a299f661.js",
+    "static/js/453.ef30c14a.chunk.js": "/8737a-auton-webapp/static/js/453.ef30c14a.chunk.js",
+    "static/media/jerryfield.png": "/8737a-auton-webapp/static/media/jerryfield.a6037f1ed320c09ab972.png",
+    "static/media/skillspath.png": "/8737a-auton-webapp/static/media/skillspath.3ecdb6c3e4cb11868006.png",
+    "index.html": "/8737a-auton-webapp/index.html",
+    "main.ebacb072.css.map": "/8737a-auton-webapp/static/css/main.ebacb072.css.map",
+    "main.a299f661.js.map": "/8737a-auton-webapp/static/js/main.a299f661.js.map",
+    "453.ef30c14a.chunk.js.map": "/8737a-auton-webapp/static/js/453.ef30c14a.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.2d2b8c51.css",
-    "static/js/main.df1b36f8.js"
+    "static/css/main.ebacb072.css",
+    "static/js/main.a299f661.js"
   ]
 }
